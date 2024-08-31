@@ -1,1 +1,1 @@
-# Covid-Detection
+# covid19_detection
